@@ -12,7 +12,7 @@
 
 บันทึก Raw JSON Response จาก Browser:
 
-```
+```json
 {
   "status": "success",
   "data": {

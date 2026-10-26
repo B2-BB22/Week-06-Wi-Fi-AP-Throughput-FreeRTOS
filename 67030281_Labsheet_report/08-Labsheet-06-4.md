@@ -13,15 +13,7 @@
 บันทึก Raw JSON Response จาก Browser:
 
 ```json
-{
-  "status": "success",
-  "data": {
-    "temperature": 28.6,
-    "humidity": 65.0,
-    "light_lux": 448,
-    "uptime_ms": 16050
-  }
-}
+{ "temperature": 28.6,"humidity": 65.0,"light_lux": 448,"uptime_ms": 16050 }
 ```
 
 ---
